@@ -1,4 +1,4 @@
-Калькулятор
+Калькулятор_ф
   internal class Program
   {
 
