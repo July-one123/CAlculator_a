@@ -19,7 +19,6 @@ TZ
               Console.WriteLine("Введите 1 число:");
               string inputNum1 = Console.ReadLine();
 
-              // Проверяем ввод первого числа
               if (!Check(inputNum1, out float num1))
               {
                   continue; 
